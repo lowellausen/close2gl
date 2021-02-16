@@ -616,3 +616,58 @@
 	<glm/gtc/type_ptr.hpp>
 	"stb_image.h"
 
+1613511825 source:d:\documents\cic\cic\cg\close2gl\src\main.cpp
+	<cstdio>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<glm/mat4x4.hpp>
+	<glm/vec4.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/mat4x4.hpp>
+	<glm/vec4.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"my_obj_loader.cpp"
+	"matrix.cpp"
+	"rastah.cpp"
+	"stb_image.h"
+	"text_maps.cpp"
+	"../imgui/imgui.h"
+	"imgui_impl_glfw_gl3.h"
+
+1497385932 d:\documents\cic\cic\cg\close2gl\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1497385932 d:\documents\cic\cic\cg\close2gl\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1497385932 d:\documents\cic\cic\cg\close2gl\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1529267395 d:\documents\cic\cic\cg\close2gl\src\my_obj_loader.cpp
+	<iostream>
+	<glm\vec3.hpp>
+	<string.h>
+
+1529267254 d:\documents\cic\cic\cg\close2gl\src\rastah.cpp
+	<glm/vec4.hpp>
+	<glm/vec3.hpp>
+	<glm/mat4x4.hpp>
+	<iostream>
+	<cstdint>
+	<cstring>
+	<time.h>
+	<math.h>
+	<glm/gtc/type_ptr.hpp>
+	"matrix.cpp"
+	"text_maps.cpp"
+
