@@ -51,7 +51,7 @@ Without implementing a z-buffer:
 
 ![Alt text](screenshots/nozbuffer.png?raw=true "nozbuffer")
 
-With z-plane:
+With z-buffer:
 
 ![Alt text](screenshots/withzbuffer.png?raw=true "withzbuffer")
 
